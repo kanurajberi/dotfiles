@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pixel Dungeon
+Comment=Play Pixel Dungeon
+Exec=java -jar desktop-1.7.2a-1.jar
+Icon=monster-rpg-2
+Path=/home/kanuraj
+Terminal=false
+StartupNotify=false

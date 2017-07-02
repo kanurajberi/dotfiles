@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=systemsettings5
+Icon=preferences-system
+Type=Application
+X-KDE-StartupNotify=true
+NotShowIn=KDE;
+GenericName=KDE System Settings
+Name=KDE System Settings
+X-DBUS-StartupType=Unique
+Categories=Qt;KDE;Settings;
+X-XFCE-Source=file:///usr/share/applications/kdesystemsettings.desktop
