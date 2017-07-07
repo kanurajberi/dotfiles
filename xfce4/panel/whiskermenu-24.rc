@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=libreoffice-calc.desktop,libreoffice-draw.desktop,libreoffice-writer.desktop,gedit.desktop,ccsm.desktop,kdesystemsettings.desktop,org.gnome.Screenshot.desktop,xournal.desktop,cairo-dock.desktop
+recent=atom.desktop,libreoffice-calc.desktop,libreoffice-draw.desktop,libreoffice-writer.desktop,gedit.desktop,ccsm.desktop,kdesystemsettings.desktop,org.gnome.Screenshot.desktop,xournal.desktop,cairo-dock.desktop
 button-title=Applications
 button-icon=preferences-other
 button-single-row=false
@@ -17,8 +17,8 @@ display-recent-default=false
 position-search-alternate=false
 position-commands-alternate=false
 position-categories-alternate=false
-menu-width=458
-menu-height=740
+menu-width=390
+menu-height=575
 menu-opacity=100
 command-settings=xfce4-settings-manager
 show-command-settings=true

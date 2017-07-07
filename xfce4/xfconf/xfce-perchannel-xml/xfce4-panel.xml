@@ -9,7 +9,7 @@
       <property name="position" type="string" value="p=6;x=936;y=1096"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="size" type="uint" value="36"/>
+      <property name="size" type="uint" value="35"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="20"/>
         <value type="int" value="34"/>
@@ -55,7 +55,7 @@
       <property name="span-monitors" type="bool" value="true"/>
       <property name="length" type="uint" value="100"/>
       <property name="nrows" type="uint" value="1"/>
-      <property name="size" type="uint" value="70"/>
+      <property name="size" type="uint" value="64"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="24"/>
         <value type="int" value="21"/>
