@@ -1,3 +1,27 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/kanuraj/Desktop/video.mp4]
+row=4
+col=0
+
+[/home/kanuraj/Desktop/Bitwig Studio v1.3.14]
+row=0
+col=0
+
+[/home/kanuraj/Desktop/response.bwreg]
+row=3
+col=0
+
+[/home/kanuraj/Desktop/activation-request.bwregrequest]
+row=2
+col=0
+
+[/home/kanuraj/Desktop/__MACOSX]
+row=1
+col=0
+
+[/home/kanuraj/Desktop/family.mp4]
+row=5
+col=0
+
