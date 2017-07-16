@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=ccsm.desktop,plank.desktop,libreoffice-startcenter.desktop,libreoffice-writer.desktop,gnome-calculator.desktop,org.gnome.Screenshot.desktop,plexmediamanager.desktop,synergy.desktop,hydrogen.desktop,Thunar.desktop
+recent=debian-uxterm.desktop,terminology.desktop,albert.desktop,dbx_preference.desktop,DockX.desktop
 button-title=Applications
 button-icon=preferences-other
 button-single-row=false
@@ -17,8 +17,8 @@ display-recent-default=false
 position-search-alternate=false
 position-commands-alternate=false
 position-categories-alternate=false
-menu-width=387
-menu-height=581
+menu-width=361
+menu-height=552
 menu-opacity=100
 command-settings=xfce4-settings-manager
 show-command-settings=true

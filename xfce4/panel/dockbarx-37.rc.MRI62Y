@@ -2,7 +2,7 @@
 config=true
 mode=0
 color=#3c3c3c3c3c3c
-alpha=0
+alpha=100
 image=
 offset=0
 max_size=0

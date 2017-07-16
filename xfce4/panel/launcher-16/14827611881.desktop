@@ -2,9 +2,9 @@
 Version=1.0
 Type=Application
 Name=Popcorn Time
-Comment=Lanuch Popcorn Time
+Comment=Launch Popcorn Time
 Exec=./launch
 Icon=/home/kanuraj/Pictures/.misc/icon3.png
-Path=/media/kanuraj/New Volume/Torrent/Completed/Popcorn Time
+Path=/media/kanuraj/New Volume/Torrent/Completed/Other/Popcorn Time
 Terminal=true
 StartupNotify=false
